@@ -1,0 +1,6 @@
+github "yoomoney/functional-swift" == 1.2.0
+github "MetalheadSanya/When" "master"
+github "yoomoney/yoomoney-core-api-swift" == 1.9.0
+github "yoomoney/yookassa-payments-api-swift" == 2.3.0
+github "yoomoney/yookassa-wallet-api-swift" == 2.2.0
+github "yandexmobile/metrica-sdk-ios" == 3.12.0

@@ -1,0 +1,7 @@
+github "MetalheadSanya/When" "8bfe92be1a00a44ef26fa13669d25a21b2d92a98"
+github "yandexmobile/metrica-sdk-ios" "3.12.0"
+github "yoomoney/core-api-swift" "1.9.0"
+github "yoomoney/functional-swift" "1.2.0"
+github "yoomoney/yookassa-payments-api-swift" "2.3.0"
+github "yoomoney/yookassa-wallet-api-swift" "2.2.0"
+github "yoomoney/yoomoney-core-api-swift" "1.9.0"
