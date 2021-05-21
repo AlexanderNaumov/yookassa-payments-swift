@@ -1,5 +1,25 @@
 ## Changelog
 
+### 5.4.0
+
+1. Исправили возможные проблемы с дробной частью параметра `amount` сущности `TokenizationModuleInputData`.
+
+### 5.3.0
+
+1. Добавлена поддержка Xcode > 12.2
+2. Зависимости `TMXProfiling` и `TMXProfilingConnections` теперь поставляются в виде `.xcframework`
+
+> Необходимо выполнить [инструкцию](https://github.com/yoomoney/yookassa-payments-swift/blob/master/MIGRATION.md) по миграции с версий ниже.
+
+### 5.2.0
+
+1. Удалили зависимости на `When` и `FunctionalSwift`.
+2. Провели рефакторинг архитектуры SDK и редизайн.
+
+### 5.1.0
+
+1. Обновили зависимость `YandexMobileMetrica` до 3.12.0
+
 ### 5.0.0
 
 1. Исправили проблему с валидацией номера карты.
